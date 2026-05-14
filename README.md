@@ -13,9 +13,9 @@
   <a href="https://github.com/Joaomateus7j">
     <img src="https://img.shields.io/badge/GitHub-Joaomateus7j-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:mjoaomateus10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mjoaomateus10@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
+ <a href="mailto:mjoaomateus10@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
+</a>
 </p>
 
 
