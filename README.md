@@ -1,12 +1,9 @@
-# Hi 👋, I'm Herbert Souza
+# Olá 👋, eu sou Mateus Santos
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
-🇧🇷 Brazil
+### 🚀 Desenvolvedor Back-end em Formação | Especialista em Java & Spring Boot
+**Brasil** 🇧🇷
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+'Atualmente tenho 17 anos e sou um estudante dedicado à arquitetura Back-end. Sigo uma rotina rigorosa de estudos que combina lógica de programação, desenvolvimento Java e prática diária de código, sempre focado em construir soluções eficientes e escaláveis.'
 
 ---
 
@@ -31,14 +28,10 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+* ☕ **Desenvolvimento Back-end:** Focado no ecossistema Java e Spring Boot.
+* 🗄️ **Banco de Dados:** Estudos de SQL e modelagem de dados.
+* 🧩 **Lógica:** Prática constante de algoritmos e estruturas de dados.
+* 🌍 **Idiomas:** Inglês técnico aplicado ao desenvolvimento.
 
 ---
 
@@ -50,8 +43,8 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+
+
 
 ### Backend
 
@@ -64,25 +57,26 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+
 
 ---
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Joaomateus7j&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaomateus7j&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Philosophy
+### 🚀 Filosofia
 
 > _"Code is not just about solving problems.  
 > It's about building solutions that scale, last, and generate real value."_
