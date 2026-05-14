@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Mateus Santos
 
-### 🚀 Desenvolvedor Back-end em Formação | Especialista em Java & Spring Boot
+### 🚀 Desenvolvedor Back-end em Formação | Focado no Ecossistema Java & Spring Boot
 **Brasil** 🇧🇷
 
 'Atualmente tenho 17 anos e sou um estudante dedicado à arquitetura Back-end. Sigo uma rotina rigorosa de estudos que combina lógica de programação, desenvolvimento Java e prática diária de código, sempre focado em construir soluções eficientes e escaláveis.'
