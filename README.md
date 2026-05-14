@@ -62,18 +62,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 
-
 ---
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Joaomateus7j&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaomateus7j&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joaomateus7j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaomateus7j&layout=compact&theme=tokyonight&langs_count=7" />
 </p>
 
+---
 ---
 
 ### 🚀 Filosofia
