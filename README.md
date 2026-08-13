@@ -1,10 +1,15 @@
 # Olá 🖐️, eu sou o João Mateus!
 
-🚀 **Estudante de Programação | Foco em Java e Back-end**
+⚡ **18 anos | Focado em Desenvolvimento Back-end (Java)**
 
 Brasil 🇧🇷
 
-*Atualmente focado em dominar a Lógica de Programação e os fundamentos do Java através de uma rotina diária e rigorosa de estudos e prática de código.*
+---
+
+### 📌 Sobre mim
+Tenho 18 anos e estou em uma jornada diária e consistente de estudos para me tornar um **Desenvolvedor Back-end**. Minha rotina é focada em prática intensa de código, resolução de problemas e na construção de uma base sólida em lógica e na linguagem Java. 
+
+Acredito que a constância diária e a disciplina são o único caminho para construir software de qualidade.
 
 ---
 
@@ -15,22 +20,21 @@ Brasil 🇧🇷
 
 ---
 
-### 🧠 O que estou praticando
-* ☕ **Java**: Estruturas condicionais (`if/else`, `switch`), laços de repetição e resolução de exercícios.
-* 🧩 **Lógica & Algoritmos**: Resolução contínua de problemas para fortalecer a base.
-* 🐍 **Python**: Experiência com conceitos fundamentais de lógica.
-* 🛠️ **Ferramentas**: Uso diário de IntelliJ IDEA, Git, GitHub Desktop e VS Code.
-* 🌐 **Idiomas**: Estudo diário de Inglês focado em documentação técnica.
+### 🧠 Foco Atual de Estudos
+* ☕ **Java Core**: Dominando sintaxe, estruturas de controle (`if/else`, `switch`), laços de repetição e orientação a objetos.
+* 🧩 **Lógica de Programação**: Prática constante de algoritmos e exercícios práticos.
+* 🛠️ **Ferramentas do Dia a Dia**: IntelliJ IDEA, Git, GitHub e VS Code.
+* 🌐 **Inglês**: Leitura diária voltada para documentação técnica e ecossistema dev.
 
 ---
 
-### 🛠️ Conjunto de Tecnologias & Ferramentas
+### 🛠️ Minhas Ferramentas
 
 #### Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### IDEs e Ferramentas
+#### Ferramentas & IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,15 +42,15 @@ Brasil 🇧🇷
 
 ---
 
-### 🎯 Próximos Passos (Roadmap de Estudos)
-- [ ] Orientação a Objetos (POO) em Java
-- [ ] Estruturas de Dados e Coleções
-- [ ] Fundamentos de Banco de Dados (SQL)
+### 🎯 Próximos Passos
+- [ ] Orientação a Objetos Avançada (POO)
+- [ ] Estruturas de Dados
+- [ ] Bancos de Dados & SQL
 - [ ] Ecossistema Spring Boot
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Minhas Estatísticas
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joaomateus7j&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaomateus7j&layout=compact&theme=dark"/>
@@ -54,4 +58,4 @@ Brasil 🇧🇷
 
 ---
 
-🚀 *"A constância diária é o caminho para dominar qualquer tecnologia."
+💬 *"Foco no processo, o resultado é consequência."*
