@@ -1,75 +1,57 @@
-# Olá 👋, eu sou Mateus Santos
+# Olá 🖐️, eu sou o João Mateus!
 
-### 🚀 Desenvolvedor Back-end em Formação | Focado no Ecossistema Java & Spring Boot
-**Brasil** 🇧🇷
+🚀 **Estudante de Programação | Foco em Java e Back-end**
 
-'Atualmente tenho 17 anos e sou um estudante dedicado à arquitetura Back-end. Sigo uma rotina rigorosa de estudos que combina lógica de programação, desenvolvimento Java e prática diária de código, sempre focado em construir soluções eficientes e escaláveis.'
+Brasil 🇧🇷
 
----
-
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/Joaomateus7j">
-    <img src="https://img.shields.io/badge/GitHub-Joaomateus7j-181717?style=for-the-badge&logo=github" />
-  </a>
- <a href="mailto:mjoaomateus10@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
-</a>
-</p>
-
-
-## 🧠 What I do
-
-* ☕ **Desenvolvimento Back-end:** Focado no ecossistema Java e Spring Boot.
-* 🗄️ **Banco de Dados:** Estudos de SQL e modelagem de dados.
-* 🧩 **Lógica:** Prática constante de algoritmos e estruturas de dados.
-* 🌍 **Idiomas:** Inglês técnico aplicado ao desenvolvimento.
+*Atualmente focado em dominar a Lógica de Programação e os fundamentos do Java através de uma rotina diária e rigorosa de estudos e prática de código.*
 
 ---
 
-### 🛠️ Conjunto de Tecnologias (Back-end Focus)
-
-**Linguagens e Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-**Persistência de Dados**
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**Ferramentas e Produtividade**
-<p align="left">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+### 🌐 Onde me encontrar
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joaomateus7j)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus-santos-6484583a3)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjoaomateus10@gmail.com)
 
 ---
 
+### 🧠 O que estou praticando
+* ☕ **Java**: Estruturas condicionais (`if/else`, `switch`), laços de repetição e resolução de exercícios.
+* 🧩 **Lógica & Algoritmos**: Resolução contínua de problemas para fortalecer a base.
+* 🐍 **Python**: Experiência com conceitos fundamentais de lógica.
+* 🛠️ **Ferramentas**: Uso diário de IntelliJ IDEA, Git, GitHub Desktop e VS Code.
+* 🌐 **Idiomas**: Estudo diário de Inglês focado em documentação técnica.
 
+---
+
+### 🛠️ Conjunto de Tecnologias & Ferramentas
+
+#### Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### IDEs e Ferramentas
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🎯 Próximos Passos (Roadmap de Estudos)
+- [ ] Orientação a Objetos (POO) em Java
+- [ ] Estruturas de Dados e Coleções
+- [ ] Fundamentos de Banco de Dados (SQL)
+- [ ] Ecossistema Spring Boot
+
+---
 
 ### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joaomateus7j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joaomateus7j&layout=compact&theme=tokyonight&langs_count=7" />
-</p>
-
-### 🚀 Filosofia
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joaomateus7j&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaomateus7j&layout=compact&theme=dark"/>
+</div>
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
-
+🚀 *"A constância diária é o caminho para dominar qualquer tecnologia."
