@@ -50,12 +50,14 @@ Acredito que a constância diária e a disciplina são o único caminho para con
 
 ---
 
-### 🚀 Próximos Passos
+### 🚀 Próximos Marcos
 
-- [ ] Orientação a Objetos Avançada (POO)
-- [ ] Estruturas de Dados
-- [ ] Bancos de Dados & SQL
-- [ ] Ecossistema Spring Boot
+<p align="center">
+🔵 Fundamentos de Java <i>(em andamento)</i><br>
+⚪ Estruturas de Dados<br>
+⚪ Banco de Dados & SQL<br>
+⚪ Spring Boot & APIs REST<br>
+</p>
 
 ---
 
@@ -71,3 +73,4 @@ Acredito que a constância diária e a disciplina são o único caminho para con
 <p align="center">
 <i>"Foco no processo, o resultado é consequência."</i>
 </p>
+
