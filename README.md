@@ -50,16 +50,6 @@ Acredito que a constância diária e a disciplina são o único caminho para con
 
 ---
 
-### 🚀 Próximos Marcos
-
-<p align="center">
-🔵 Fundamentos de Java <i>(em andamento)</i><br>
-⚪ Estruturas de Dados<br>
-⚪ Banco de Dados & SQL<br>
-⚪ Spring Boot & APIs REST<br>
-</p>
-
----
 
 ### 📊 Minhas Estatísticas
 
