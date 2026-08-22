@@ -45,7 +45,7 @@ Acredito que a constância diária e a disciplina são o único caminho para con
 ### 🧰 Minhas Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,py,git,github,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=java,git,github,idea,spring,mysql,postman" />
 </p>
 
 ---
@@ -71,4 +71,3 @@ Acredito que a constância diária e a disciplina são o único caminho para con
 <p align="center">
 <i>"Foco no processo, o resultado é consequência."</i>
 </p>
-
