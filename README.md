@@ -45,11 +45,22 @@ Acredito que a constância diária e a disciplina são o único caminho para con
 ### 🧰 Minhas Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,git,github,idea,spring,mysql,postman" />
+<img src="https://skillicons.dev/icons?i=java,git,github,idea,spring,mysql,postgres,postman" />
 </p>
 
 ---
 
+### 🚀 Roadmap
+
+<div align="center">
+
+| 🔵 Agora | ⏭️ Em seguida | 🏁 Meta final |
+|:---:|:---:|:---:|
+| Fundamentos de Java (POO) | Estruturas de Dados · SQL · Spring Boot | Vaga de Dev Backend Júnior |
+
+</div>
+
+---
 
 ### 📊 Minhas Estatísticas
 
@@ -63,4 +74,3 @@ Acredito que a constância diária e a disciplina são o único caminho para con
 <p align="center">
 <i>"Foco no processo, o resultado é consequência."</i>
 </p>
-
