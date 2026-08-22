@@ -58,14 +58,6 @@ Acredito que a constância diária e a disciplina são o único caminho para con
 </picture>
 
 
-
-### 📊 Minhas Estatísticas
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Joaomateus7j&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Joaomateus7j&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 ---
 
 <p align="center">
