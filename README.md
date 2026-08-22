@@ -48,6 +48,27 @@ Acredito que a constância diária e a disciplina são o único caminho para con
 <img src="https://skillicons.dev/icons?i=java,git,github,idea,spring,mysql,postgres,postman" />
 </p>
 
+---
+
+### 🚀 Roadmap
+
+<div align="center">
+
+| 🔵 Agora | ⏭️ Em seguida | 🏁 Meta final |
+|:---:|:---:|:---:|
+| Fundamentos de Java (POO) | Estruturas de Dados · SQL · Spring Boot | Vaga de Dev Backend Júnior |
+
+</div>
+
+---
+
+### 🐍 Atividade
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Joaomateus7j/Joaomateus7j/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha comendo o gráfico de contribuições" />
+</p>
+
+---
 
 ### 📊 Minhas Estatísticas
 
@@ -61,3 +82,6 @@ Acredito que a constância diária e a disciplina são o único caminho para con
 <p align="center">
 <i>"Foco no processo, o resultado é consequência."</i>
 </p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=150&section=footer)
+
