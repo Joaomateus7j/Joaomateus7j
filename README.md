@@ -50,25 +50,6 @@ Acredito que a constância diária e a disciplina são o único caminho para con
 
 ---
 
-### 🚀 Roadmap
-
-<div align="center">
-
-| 🔵 Agora | ⏭️ Em seguida | 🏁 Meta final |
-|:---:|:---:|:---:|
-| Fundamentos de Java (POO) | Estruturas de Dados · SQL · Spring Boot | Vaga de Dev Backend Júnior |
-
-</div>
-
----
-
-### 🐍 Atividade
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Joaomateus7j/Joaomateus7j/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha comendo o gráfico de contribuições" />
-</p>
-
----
 
 ### 📊 Minhas Estatísticas
 
